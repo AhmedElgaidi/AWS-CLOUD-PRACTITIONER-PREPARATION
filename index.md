@@ -98,4 +98,4 @@ In this course, you will learn to:
   - Solve questions similar to those found within the AWS Certified Cloud Practitioner examination
 
 
-start with 06:35
+start with 08:08
