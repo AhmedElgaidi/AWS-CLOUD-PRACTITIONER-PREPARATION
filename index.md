@@ -96,6 +96,3 @@ In this course, you will learn to:
   - Describe benefits of becoming AWS Certified
 - Course Final Assessment
   - Solve questions similar to those found within the AWS Certified Cloud Practitioner examination
-
-
-start with 12:22
