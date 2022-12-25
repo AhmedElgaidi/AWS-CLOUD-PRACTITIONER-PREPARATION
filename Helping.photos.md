@@ -301,12 +301,3 @@
 <img src='./public/301.png'/>
 <img src='./public/302.png'/>
 <img src='./public/303.png'/>
-<img src='./public/304.png'/>
-<img src='./public/305.png'/>
-<img src='./public/306.png'/>
-<img src='./public/307.png'/>
-<img src='./public/308.png'/>
-<img src='./public/309.png'/>
-<img src='./public/310.png'/>
-<img src='./public/311.png'/>
-<img src='./public/312.png'/>
